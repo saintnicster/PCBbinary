@@ -1,4 +1,4 @@
 PCBbinary
 =========
 
-Pebble watchface with time binary on a circuit board background
+Pebble watchface with time in binary on a circuit board background
