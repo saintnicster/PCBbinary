@@ -1,0 +1,30 @@
+{
+    "versionLabel": "2.0",
+    "uuid": "2ab6dcff-c7ab-4849-8eaf-b5682b29fdfe",
+    "appKeys": {},
+    "longName": "PCB Binary",
+    "versionCode": 2,
+    "capabilities": [
+        ""
+    ],
+    "shortName": "PCB Binary",
+    "companyName": "8a22a",
+    "watchapp": {
+        "watchface": true
+    },
+    "resources": {
+        "media": [
+            {
+                "menuIcon": true,
+                "type": "png",
+                "name": "IMAGE_MENU_ICON",
+                "file": "images/menu_icon_pcbbinary.png"
+            },
+            {
+                "type": "png",
+                "name": "IMAGE_BACKGROUND",
+                "file": "images/background.png"
+            }
+        ]
+    }
+}
